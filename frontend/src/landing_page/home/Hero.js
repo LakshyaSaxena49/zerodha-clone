@@ -1,6 +1,6 @@
 import React from "react";
 
-function Hero() {
+function Hero() { //main element
   return (
     <div className="container p-5 mb-5">
       <div className="row text-center">
